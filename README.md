@@ -1,2 +1,3 @@
-# .github
-GitHub sponsors button.
+### GitHub files.
+GitHub sponsors button and more...
+<hr>
