@@ -1,0 +1,2 @@
+# .github
+GitHub sponsors button.
